@@ -1,8 +1,10 @@
 # HTML
 
+- [x] Status-bar
+- [x] Header
+- [ ] index
 - [ ] Chat
 - [ ] Find
 - [ ] Friends
-- [ ] index
 - [ ] More
 - [ ] Settings

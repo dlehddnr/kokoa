@@ -2,9 +2,9 @@
 
 - [x] Status-bar
 - [x] Header
-- [ ] index
-- [ ] Chat
-- [ ] Find
-- [ ] Friends
-- [ ] More
-- [ ] Settings
+- [x] index
+- [x] Chat
+- [x] Find
+- [x] Friends
+- [x] More
+- [x] Settings
